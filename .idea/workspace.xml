@@ -5,115 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f8350cc-67a7-435e-af7a-e5befbf28f46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/androidchannel_0_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FAImageView.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FAImageView.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FAImageViewApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/kr/pe/burt/android/lib/faimageview/app/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/kr/pe/burt/android/lib/faimageview/app/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/kr/pe/burt/android/lib/faimageview/app/SplashActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/number01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/number02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/number03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/kr/pe/burt/android/lib/faimageview/app/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/androidTest/java/kr/pe/burt/countexample/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/java/kr/pe/burt/countexample/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/drawable/number01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/drawable/number02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/drawable/number03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/app/src/test/java/kr/pe/burt/countexample/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CountExample/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/faimageview/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/faimageview/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/faimageview.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/faimageview/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/src/androidTest/java/kr/pe/burt/android/lib/faimageview/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/src/main/java/kr/pe/burt/android/lib/faimageview/FAImageView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faimageview/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,11 +224,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="746" height="215" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1639532881407" />
-    <state x="93" y="93" width="1350" height="678" key="HVDManager" timestamp="1639676894837">
+    <state x="93" y="93" width="1350" height="678" key="HVDManager" timestamp="1639676996147">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="89" width="1350" height="647" key="HVDManager/0.0.1536.824@0.0.1536.824" timestamp="1639600402428" />
-    <state x="93" y="93" width="1350" height="678" key="HVDManager/0.0.1536.864@0.0.1536.864" timestamp="1639676894837" />
+    <state x="93" y="93" width="1350" height="678" key="HVDManager/0.0.1536.864@0.0.1536.864" timestamp="1639676996147" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1639553634852">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

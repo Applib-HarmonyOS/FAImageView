@@ -32,18 +32,18 @@ APIs
 1.For using FAImageView module in sample app, include the source code and add the below dependencies in entry/build.gradle to generate hap/support.har.
 ```groovy
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar', '*.har'])
-    testImplementation 'junit:junit:4.13.1'
-    ohosTestImplementation 'com.huawei.ohos.testkit:runner:1.0.0.200'
-    implementation project(':faimageview')
+        implementation fileTree(dir: 'libs', include: ['*.jar', '*.har'])
+        testImplementation 'junit:junit:4.13.1'
+        ohosTestImplementation 'com.huawei.ohos.testkit:runner:1.0.0.200'
+        implementation project(':faimageview')
 }
 ```
 
 2.For using FAImageView in separate application using har file, add the har file in the entry/libs folder and add the dependencies in entry/build.gradle file.
 ```groovy
 dependencies {
-            implementation fileTree(dir: 'libs', include: ['*.jar'])
-            testImplementation 'junit:junit:4.13.1'
+        implementation fileTree(dir: 'libs', include: ['*.jar'])
+        testImplementation 'junit:junit:4.13.1'
     }
 ```
 ## Usage
