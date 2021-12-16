@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:width="match_parent"
+    ohos:height="match_parent"
+    ohos:start_padding="$float:horizontal_margin"
+    ohos:end_padding="$float:horizontal_margin"
+    ohos:top_padding="$float:vertical_margin"
+    ohos:bottom_padding="$float:vertical_margin"
+    ohos:orientation="vertical">
+
+    <kr.pe.burt.hmos.lib.faimageview.FaImageView
+        ohos:id="$+id:faimageview1"
+        ohos:width="match_parent"
+        ohos:height="0vp"
+        ohos:weight="1"/>
+
+    <kr.pe.burt.hmos.lib.faimageview.FaImageView
+        ohos:id="$+id:faimageview2"
+        ohos:width="match_parent"
+        ohos:height="0vp"
+        ohos:weight="1"/>
+</DirectionalLayout>
