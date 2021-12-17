@@ -2,11 +2,11 @@
   "float": [
     {
       "name": "horizontal_margin",
-      "value": "16vp"
+      "value": "350vp"
     },
     {
       "name": "vertical_margin",
-      "value": "16vp"
+      "value": "25vp"
     },
     {
       "name": "radius",
