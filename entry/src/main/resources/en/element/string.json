@@ -2,11 +2,11 @@
   "string": [
     {
       "name": "entry_MainAbility",
-      "value": "FAImageViewApp"
+      "value": "FAImageViewApp Library"
     },
     {
       "name": "mainability_description",
-      "value": "FAImageViewApp"
+      "value": "FAImageView is a HMOS Library called Frame Animation ImageView"
     }
   ]
 }
