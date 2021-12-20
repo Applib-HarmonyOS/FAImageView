@@ -7,7 +7,9 @@ FAImageView is a HMOS Library called Frame Animation ImageView. You can animate 
 Inspired by [skyfe79/FAImageView](https://github.com/skyfe79/FAImageView) 
 
 ## Features
-You can set multiple frame images and start frame animation like UIImageView in iOS.
+You can set multiple frame images and start frame animation like UIImageView in iOS. This library internally uses 
+[OHOSChannel](https://github.com/applibgroup/OHOSChannel)
+
 FAImageView provides some listeners for animation event.
 
  * for listening to animation start-OnStartAnimationListener
@@ -17,13 +19,13 @@ FAImageView provides some listeners for animation event.
 APIs
  * setInterval(int milli)-set frame interval for animation in milli seconds
  * addImageFrame(int resId), addImageFrame(Element drawable), addImageFrame(PixelMap bitmap)-add an Image Frame
- * setLoop(boolean loop)-If you want to animate infinitely set true or false. Default value is false.
- * setRestoreFirstFrameWhenFinishAnimation(boolean restore)-If you want to restore the first frame when animation is finished, set true or false.
- * setAnimationRepeatCount(int animationRepeatCount)-Only If your animation is not infinity, this value is valuable.       
- * startAnimation()-tart animation
+ * setLoop(boolean loop)-If you want to animate infinitely set true or false. Default value is false
+ * setRestoreFirstFrameWhenFinishAnimation(boolean restore)-If you want to restore the first frame when animation is finished, set true or false
+ * setAnimationRepeatCount(int animationRepeatCount)-Only If your animation is not infinity, this value is valuable       
+ * startAnimation()-start animation
  * stopAnimation()-stop animation
  * isAnimating()-check it's now animating   
- * reset()-clear all resources and stop animation.
+ * reset()-clear all resources and stop animation
   
 ![](screenshots/FAImageView_Gif.gif)
 
@@ -65,7 +67,7 @@ Declare FAImageView widget in the layout xml file.
 ```
 
 #### Java
-Set the options whatever you want
+Set the options you want
 ```java
         faImageView1 = (FaImageView) findComponentById(ResourceTable.Id_faimageview1);
         faImageView1.setInterval(30);
