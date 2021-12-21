@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "horizontal_margin",
+      "value": "350vp"
+    },
+    {
+      "name": "vertical_margin",
+      "value": "25vp"
+    },
+    {
+      "name": "radius",
+      "value": "15vp"
+    }
+  ]
+}

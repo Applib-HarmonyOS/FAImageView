@@ -1,0 +1,27 @@
+{
+  "app": {
+    "bundleName": "kr.pe.burt.hmos.lib.faimageview.app",
+    "vendor": "pe",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {
+  },
+  "module": {
+    "package": "kr.pe.burt.hmos.lib.faimageview",
+    "deviceType": [
+      "phone",
+      "tablet",
+      "tv",
+      "wearable",
+      "car"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "faimageview",
+      "moduleType": "har"
+    }
+  }
+}

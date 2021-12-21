@@ -1,1 +1,1 @@
-include ':app', ':faimageview'
+include ':entry', ':faimageview'
