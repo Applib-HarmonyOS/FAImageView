@@ -1,3 +1,5 @@
+[![.github/workflows/main.yml](https://github.com/applibgroup/FAImageView/actions/workflows/main.yml/badge.svg)](https://github.com/applibgroup/FAImageView/actions/workflows/main.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=applibgroup_FAImageView&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=applibgroup_FAImageView)
 # FAImageView
 
 FAImageView is a HMOS Library called Frame Animation ImageView. You can animate multiple image.
@@ -38,7 +40,7 @@ dependencies {
         testImplementation 'junit:junit:4.13.1'
         ohosTestImplementation 'com.huawei.ohos.testkit:runner:1.0.0.200'
         implementation project(':faimageview')
-}
+    }
 ```
 
 2.For using FAImageView in separate application using har file, add the har file in the entry/libs folder and add the dependencies in entry/build.gradle file.
@@ -46,6 +48,13 @@ dependencies {
 dependencies {
         implementation fileTree(dir: 'libs', include: ['*.jar'])
         testImplementation 'junit:junit:4.13.1'
+    }
+```
+3.For using FAImageView from a remote repository in separate application, add the below dependencies in entry/build.gradle file.
+```groovy
+dependencies {
+        implementation 'dev.applibgroup:faimageview:1.0.0'  
+        testCompile 'junit:junit:4.13'
     }
 ```
 ## Usage
